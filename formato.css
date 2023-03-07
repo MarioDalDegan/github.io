@@ -1,0 +1,32 @@
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    color:darkgreen;
+}
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: dodgerblue;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
